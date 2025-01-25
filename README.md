@@ -2,6 +2,10 @@
 
 ![image](https://github.com/user-attachments/assets/33cb350f-85c7-464a-b7db-0de7bd4f7528)
 
+**[Project Report](https://github.com/Aaljauza-67/Design-Thinking/blob/5dce070538b2214ffe7f2489cf31cc70ce79a43b/Design%20Thinking%20Project%20Report.pdf)**
+
+**[Project Slides](
+
 
 <h2>Reflection </h2>
 

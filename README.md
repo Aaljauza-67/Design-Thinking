@@ -4,7 +4,7 @@
 
 **[Project Report](https://github.com/Aaljauza-67/Design-Thinking/blob/5dce070538b2214ffe7f2489cf31cc70ce79a43b/Design%20Thinking%20Project%20Report.pdf)**
 
-**[Project Slides](
+**[Project Slides](https://github.com/Aaljauza-67/Design-Thinking/blob/a1b897a70a86318a67afd2c6ca8bdd7a071d62af/InsightAI.pdf)**
 
 
 <h2>Reflection </h2>
